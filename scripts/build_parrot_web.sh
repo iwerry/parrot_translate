@@ -1,3 +1,2 @@
-# build_parrot_web.sh
-
-Conteúdo inicial.
+#!/bin/bash
+# Script de build para Web

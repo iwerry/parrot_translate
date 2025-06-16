@@ -1,3 +1,2 @@
-# build_parrot_linux.sh
-
-Conteúdo inicial.
+#!/bin/bash
+# Script de build para Linux

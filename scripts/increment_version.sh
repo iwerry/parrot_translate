@@ -1,3 +1,2 @@
-# increment_version.sh
-
-Conteúdo inicial.
+#!/bin/bash
+# Script para incrementar versão

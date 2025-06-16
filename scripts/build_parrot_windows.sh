@@ -1,3 +1,2 @@
-# build_parrot_windows.sh
-
-Conteúdo inicial.
+#!/bin/bash
+# Script de build para Windows

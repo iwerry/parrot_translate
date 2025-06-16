@@ -1,3 +1,0 @@
-# Roadmap.md
-
-Conteúdo inicial.
