@@ -1,0 +1,3 @@
+# Changelog.md
+
+Conteúdo inicial.
